@@ -1,4 +1,5 @@
 REPO_DIR=$HOME/repos
 PUBLIC_DIR=$REPO_DIR/dotfiles
+BASE_DIR=$PUBLIC_DIR/base
 PRIVATE_DIR=$REPO_DIR/dotfiles-private
 source $PUBLIC_DIR/bashrc
